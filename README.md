@@ -1,7 +1,7 @@
 # TCGA Data
 
 Size | Tumor type | File name
-------|--------------------------
+------|-----------|--------------
 117M	| ACC | ./acc/tcga/acc_output.tsv
 572M	| BLCA | ./blca/tcga/blca_output.tsv
 1.8G	| BRCA | ./brca/tcga/brca_output.tsv
